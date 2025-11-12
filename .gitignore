@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# FAISS / vectorstore / indexes (common names)
+faiss_index/
+.faiss
+.index
+vectorstore_/
+vectordb_/
